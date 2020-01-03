@@ -1,0 +1,13 @@
+@import "utils/mixins";
+@import "utils/fonts";
+@import "../scss/utils/vars.scss";
+
+body{
+  background-color: #e5e5e5;
+  padding: 50px;
+  margin:0;
+}
+
+
+
+@import "../Color&Type/Colors&Type";
